@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #f3f3f3f3;
+}
+
+
+
+.titleDataClient {
+    font-weight: 700;
+    font-size: 82px;
+}
+
+.alert-security-data{
+    background: rgb(76, 105, 201);
+    color: #fff;
+}
+
+.alert-information {
+    background: rgb(76, 105, 201);
+    color: #fff;
+}
+
+
+#map {  
+    height: 500px;
+    width: 900px;
+    background: rgb(58, 58, 58);
+    justify-content: center;
+    align-items: center;
+    left: 100px;
+ }
