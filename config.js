@@ -6,7 +6,7 @@ let selectLongClient = document.querySelector("#showGPSLongClient");
 let selectLatdClient = document.querySelector("#showGPSLatdClient");
 
 let tokenMap =
-  "pk.eyJ1IjoiY2FybG9zY29sY2hhZWMiLCJhIjoiY2twcTM1N285MTY2ODJ2bXdteWs0bmgzNCJ9.30S72HY6ommLIhdbkClLfA";
+  "API_KEY_LOGIN";
 
 axios
   .get("https://api.ipify.org/")
